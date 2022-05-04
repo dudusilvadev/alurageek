@@ -9,7 +9,7 @@ const urlLogo = require('../assets/img/Logo.png');
 
 export default function StartHomeScreen({navigation}) {
     
-    setTimeout( () => {navigation.navigate('HomeScreenOld');}, 2500 );
+    setTimeout( () => {navigation.navigate('HomeScreenOld');}, 3500 );
     
     return(
         
