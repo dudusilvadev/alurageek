@@ -1,0 +1,22 @@
+# Challenge Alura AluraGeek
+  
+### Desafio da Alura para criar um E-commerce com estilo do zero com Fron-end + Back-end. 
+Foi desenvolvido em React Native.
+
+ - [ ] Marque esse projeto com uma estrelinha ;)
+ - [ ] Colabore a vontade :)
+ - [ ] Faça o deploy na Vercel e compartilhe!
+
+## O Projeto.
+Tela abertura
+![enter image description here](https://lh3.googleusercontent.com/zfxsor0pSFFUI7QITAe_O3Q8dYPPE96AgR3JAiZnO02oszYBf6i6z42XaijD0fA1tag7tH1Lbj_DIfIGsN2QXdiRQ5_xfqw2nC4sTeK_t96-HgAsNLpoiDTUO6Ud3-IOkEOEUcX2bL2q288zavgMDoHichiIYUVajDCOE_HdetBKNTZX1jxqC9TA_7cyjvPYOYBYhvJ0n3H2rGxSpdtLQkFaCvsjEIACwleNd_HNHdQkDxLCOCCq2uW76yfInB8iH8GIxyoqp837Udfeulw77XQZUt9FXt9H32kh3D9zc6C7q8dXpZ8u85umNuAJTDIw3v20HrfxuY7vUWM9PGHv0GT1_9lD0jJEXdF1t5rcpo8jtb-dOCb13Xt5y1M5R9gGCsdQY-XYUjkyziurdwYgxr5GGn4uWyurUg354SU-EjVBm7w20mXN5yHnM43K51xmX7QGObYmS15_6ZO7aX1q8FyMPcioO9QSMSQSHhCXcM8VWDKeMHwSaGjBIOtNBsAkS2o3CA99gBl3PKxJ0-h3zgllSFCSP0MZXNOex7xX0dZuiQZHc2GWPd2woHWJkPlF13G6MK9p_1ffLfsdraVgDsd2KSniyGb5QcaY-7KkkUE6CDIeprS9gJUNtzK73ujM_OVNhDzH6H1T1y4kBOR9LlpZBqRG55jP8M4Ls7IYvvUWp_XXJHChcx10Oz4OZgqEgXpOrmR-PhW2pqTjQidNdf-rvLGsp-QDeTjJK0HiDYAcnzOwrIpw1G9kkzeM=w1063-h568-no?authuser=0)
+Tela Principal
+![enter image description here](https://lh3.googleusercontent.com/cDfZxEE7e7zIKuG-8RTgp_IbuR7rmO62QcPRwTJDaF7Ctuk20Lpn2t4VxEHv6QBbmw7QjYmmhIkFDXTM6IpoJbb5Abtur1ooU3OVyqLL8LQxL2IvpP3kVyGpqSrGu0xGT8bQEwVugGC1pPIJaaq-uujK_AazhGdirbsBZO8dphbcuCczhvqYxNjOxOLZqOd32rDqu8Pvq5Q-uiYj1cHA9kohO3vQvUYEKP1D6cbg8IGJi3G5ATpgF1FaVHzpzyT0xhv2tDiBvZ2pB7h6HEY0S-cRKH0LJhLi1Ca73ux80ShneLj_KPQtos7wp0bpJPLcu-z0z-cFJDX6d8X6bbcXhtCXYeGtCP2LXoXxtbsX_qrLEiBahSO5DdJJaR5qXtca_IYIIRYOgsU-TG3zRdFq7LrpmLN0lVp7BKO8GKakTDxT81a1_3Tdv8apuzvYJJGWz95QoY9dkdKA2_-0AeZdheo1Euk9PruDUKQNwvFUms6y0htvfyGKu4q2dmucTyXdPt0G7AEfHoYA4ZXyAHqVLZzDhdvzgmo7nBXSKoVcq0eOWjg28dFRjw7ejpO-JM1dx1PkyZFA9M139WMSA4IisX_fuHOgg_Vy20wo9XgwVGesVqChj6n9ZUO9dO1r1qf2gyJcrIWEDlZ3PQPbqlU5lSAQJJK_80HsT8UrFblS2JxZ-uhLxzkGg4sbT9ImWQW8hSMnbYQbRR7gaETJ1Xtc5JBnEjUTQurtRViEtmLjcVC9WmLwVV4LZ1zjuWZV=w1058-h568-no?authuser=0)
+## Clonando arquivos
+Para clonar esse repositório em sua maquina é simples basta digitar esse comando no seu Git Bash 
+
+    .git clone https://github.com/dudusilvadev/alurageek.git
+
+
+## Projeto no Git Pages
+
